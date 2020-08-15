@@ -14,8 +14,8 @@ necesariamente representativa de la población en general.
 
 Podríamos decir que la hornalla favorita es la que más gente prefiere.
 
-![Hornalla favorita. Adelante derecha: 1791 votos, Adelante izquierda: 1661,
-Atrás derecha: 828, Atrás izquierda: 669](hornallas.png)
+![Hornalla favorita. Adelante derecha: 1790 votos, Adelante izquierda: 1657,
+Atrás derecha: 826, Atrás izquierda: 666](hornallas.png)
 
 Sin embargo esto no nos ayuda a entender por qué esto es así. Para eso vamos a
 desarrollar hipótesis, es decir ideas de comportamiento que esperamos, y
