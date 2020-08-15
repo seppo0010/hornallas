@@ -2,24 +2,32 @@
 
 Por Valeria Edelsztein y Sebastian Waisbrot
 
-Siempre que voy a calendar algo en una hornalla uso la misma. No sé cuándo
-elegí cuál usar, pero ahora no me veo usando otra. Lo que es más importante, no
+- Hola. Mi nombre es Sebastián.
+- Hola, Sebastián.
+- Siempre que voy a calentar algo en una hornalla uso la misma. No sé cuándo
+elegí cuál usar, pero ahora no me veo usando otra. Y lo que es más importante, no
 sé por qué elegí la que elegí.
+- No te preocupes, acá podemos ayudarte.
 
-Nos embarcamos en este estudio para entender esa motivación. Cabe destacar que
-la encuesta es voluntaria y la muestra autoseleccionada po lo que no es
-necesariamente representativa de la población en general.
+¿Por qué elegimos lo que elegimos? ¿Existe el libre albedrío? ¿Somos conscientes de nuestras elecciones? No tenemos ni idea. Pero nos embarcamos en este estudio para tratar de entender si existe alguna motivación para tener una hornalla favorita. Miles de respuestas, horas de debate, ríos de tinta (electrónica), toneladas de análisis después llegamos a algunas conclusiones y acá se las compartimos.
+
+## Muestra
+
+A lo largo de dos días, una increíble cantidad de 4949 personas respondieron a la encuesta anónima que preparamos. Eso nos indica (1) que nos encanta responder encuestas, (2) que el tema de las hornallas favoritas es de interés poblacional y/o (3) que preferimos dedicar tiempo a estos menesteres en lugar de a otras cuestiones más urgentes. No somos quiénes para juzgar.
+Es importante tener en cuenta que la encuesta fue voluntaria (¿por qué obligaríamos a alguien a decirnos cuál es su hornalla favorita?) y la muestra autoseleccionada así que no es necesariamente representativa de la población en general.
+Para el análisis de datos "limpiamos" previamente la muestra eliminando aquellas respuestas que no tenían sentido. Por ejemplo, personas que habían puesto que su altura era 3.1416. Sin duda amamos a pi, pero definitivamente no puede ser la altura de una persona.
 
 ## ¿Cuál es la hornalla favorita?
 
-Podríamos decir que la hornalla favorita es la que más gente prefiere.
+Podríamos decir que la hornalla favorita de la población que analizamos es la que más gente prefiere.
+En este caso (suenen trompetas): adelante y a la derecha seguida muy, muy de cerca por adelante y a la izquierda.
+Datos, no opinión. No nos vengan con pucheritos si no ganó su favorita.
 
-![Hornalla favorita. Adelante derecha: 1790 votos, Adelante izquierda: 1657,
-Atrás derecha: 826, Atrás izquierda: 666](hornallas.png)
+![Hornalla favorita. Adelante derecha: 1791 votos, Adelante izquierda: 1661,
+Atrás derecha: 828, Atrás izquierda: 669](hornallas.png)
 
-Sin embargo esto no nos ayuda a entender por qué esto es así. Para eso vamos a
-desarrollar hipótesis, es decir ideas de comportamiento que esperamos, y
-veremos si esto se da en la práctica o no
+Más allá de este resultado, algo más interesante es tratar de entender si existen razones para que esto sea así. 
+Para intentar dilucidarlo, desarrollamos algunas hipótesis, es decir ideas de comportamiento que esperamos, e intentamos validarlas (o no) a partir de los datos que recolectamos. 
 
 ## Hipótesis
 
