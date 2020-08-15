@@ -11,6 +11,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
+wittgenstein = "*"
 
 [requires]
 python_version = "3.8"
