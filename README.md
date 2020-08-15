@@ -77,4 +77,4 @@ Hornalla delantera Q3: 1.74,
 Hornalla trasera Q1: 1.62,
 Hornalla trasera Q2: 1.69,
 Hornalla trasera Q3: 1.76,
-]
+](altura.png)
