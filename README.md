@@ -82,8 +82,9 @@ Gente sin niñes que prefiere una hornalla atrás: 966
 ### Se usan más las hornallas de atrás si la persona es alta
 
 ¿La gente alta prefiere las hornallas más atrás que la gente más baja? Sí, un poco.
-La gente cuyo FH se inclina por las de atrás es, en promedio, 2 cm más alta. 
-¡Atención! No es cierto que elegir las hornallas de atras a partir de ahora te agregará 2 cm. Parece obvio pero es importante aclararlo. Tampoco tomen lavandina, por el amor de Bohr.
+La gente cuyo FH se inclina por las de atrás es, en promedio, 2 cm más alta.
+
+¡Atención! No es cierto que elegir las hornallas de atrás a partir de ahora te agregará 2 cm. Parece obvio pero es importante aclararlo. Tampoco tomen lavandina, por el amor de Bohr.
 
 ![
 Preferencia de hornalla por altura.
@@ -124,7 +125,7 @@ Proporción de hornallas de intensidad alta 1/4: 0.47,
 
 ### La edad no es predictora de la hornalla favorita
 
-Nuestra primera hipótesis era que la edad no tenía nada que ver con el FH. Pero cuando analizamos los datos, el resultado fue sorprendente: a priori la edad parece predecir una preferencia por hornallas traseras.
+Nuestra primera hipótesis era que la edad no tenía nada que ver con el FH. Pero cuando analizamos los datos, el resultado fue sorprendente: a priori la edad parecía predecir una preferencia por hornallas traseras. MISTERIO Y ESTUPOR.
 
 ![
 Preferencia de hornalla por edad
@@ -138,7 +139,7 @@ Hornalla trasera Q3: 39,
 
 ¿Cómo explicar esto? Pensamos que, quizás, la gente de más edad tenía o había tenido (recordemos que somos animales de costumbre) criaturas. 
 Por eso, decidimos controlar por esa variable. 
-Una vez que nos quedamos sólo con gente que no tiene criaturas, vimos que la preferencia desaparecía.
+Una vez que nos quedamos sólo con gente que no tiene criaturas, vimos que la preferencia desaparecía. AHORA SÍ.
 
 ![
 Preferencia de hornalla por edad (sin hijes)
@@ -156,24 +157,28 @@ Era una linda hipótesis, pero no encontramos diferencias significativas entre g
 
 ### El género no predice el FH
 
-Los hombres demuestran usar más las hornallas traseras. Sin embargo, al
-controlar por niñes la tendencia desaparece.
+Los hombres demuestran usar más las hornallas traseras. Pensamos que esto podía deberse a cuestiones de altura y presencia de criaturas en el hogar.
+De hecho, al controlar por niñes, la tendencia desaparece.
 
 ## Modelo explicativo
 
-Si queremos ver qué hay que considerar para determinar la hornalla favorita de
-alguien podemos dividir el problema en dos partes.
+Y acá es donde se pone divertido (?).
 
-Usamos un modelo sencillo de aprendizaje automático para determinar reglas.
+Si quisiéramos saber qué características hay que considerar para determinar la hornalla favorita de
+una persona de la cual no conocemos su FH, podríamos dividir el problema en dos partes: 
+- Profundidad: adelante/atrás
+- Lateralidad: izquierda/derecha.
+
+Sobre esta base, construimos un modelo sencillo de aprendizaje automático para determinar reglas que nos permitieran predecir los dos componentes del FH en función de los datos de una persona. Las reglas que encontramos fueron las siguientes.
 
 ### Profundidad
 
 Se prefiere una hornalla delantera siempre y cuando la hornalla de mayor
-intensidad no esté atrás y no hayan niñes en la casa.
+intensidad no esté atrás y no haya criaturas en la casa.
 
 ### Lateralidad
 
-En este caso el modelo fue más "creativo", por decirlo de alguna manera.
+En este caso el modelo fue, por decirlo de alguna manera, más "creativo".
 
 Se prefiere una hornalla de la izquierda si ocurre cualquiera de las siguientes
 condiciones:
