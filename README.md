@@ -14,14 +14,18 @@ sé por qué elegí la que elegí.
 ## Muestra
 
 A lo largo de dos días, una increíble cantidad de 4949 personas respondieron a la encuesta anónima que preparamos. Eso nos indica (1) que nos encanta responder encuestas, (2) que el tema de las hornallas favoritas es de interés poblacional y/o (3) que preferimos dedicar tiempo a estos menesteres en lugar de a otras cuestiones más urgentes. No somos quiénes para juzgar.
+
 Es importante tener en cuenta que la encuesta fue voluntaria (¿por qué obligaríamos a alguien a decirnos cuál es su hornalla favorita siendo un tema tan personal?) y la muestra autoseleccionada así que no es necesariamente representativa de la población en general.
+
 Para el análisis de datos "limpiamos" previamente la muestra eliminando aquellas respuestas que no tenían sentido. Por ejemplo, personas que habían puesto que su altura era 3.1416. Sin duda, quienes somos seres del bien amamos a pi, pero definitivamente no puede ser la altura de una persona.
+
 Hecha esta limpieza, la muestra final consistió en las respuestas de 4939 personas.
 
 ## ¿Cuál es la hornalla favorita?
 
 Podríamos decir que la hornalla favorita de la población que analizamos es la que más gente prefiere.
 En este caso (suenen trompetas): adelante y a la derecha seguida muy, muy de cerca por adelante y a la izquierda.
+
 Datos, no opinión. No nos vengan con pucheritos si no ganó su favorita.
 
 ![Hornalla favorita. Adelante derecha: 1790 votos, Adelante izquierda: 1657,
@@ -61,7 +65,9 @@ Mesada a la izquierda, hornalla favorita a la derecha: 617
 ### Se usa más la hornalla de atrás si se tienen criaturas
 
 ¿La gente con criaturas teme que toquen accidentalmente las hornallas delanteras
-y por eso usan más las de atrás? Aparentemente sí. Vemos que es algo que pasa bastante. Sin embargo, no llega a ser la mayoría de los casos. Evidentemente la seguridad infantil no parecería ser prioridad a la hora de elegir una hornalla favorita. POLÉMICO.
+y por eso usan más las de atrás? Aparentemente sí. Vemos que es algo que pasa bastante. Sin embargo, no llega a ser la mayoría de los casos. 
+Evidentemente la seguridad infantil no parecería ser prioridad a la hora de elegir una hornalla favorita. POLÉMICO.
+
 Es de destacar que varias personas comentaron que les quedó la costumbre de usar hornallas traseras aún
 cuando sus criaturas ya han dejado el hogar hace rato. Sabemos que anécdota no es evidencia, pero no perdamos de vista que estamos analizando una encuesta sobre hornallas.
 
@@ -75,8 +81,9 @@ Gente sin niñes que prefiere una hornalla atrás: 966
 
 ### Se usan más las hornallas de atrás si la persona es alta
 
-¿La gente alta prefiere las hornallas más atrás que la gente más baja? Sí, poco.
-La gente que prefiere las hornallas de atrás son en general 2 cm más alta.
+¿La gente alta prefiere las hornallas más atrás que la gente más baja? Sí, un poco.
+La gente cuyo FH se inclina por las de atrás es, en promedio, 2 cm más alta. 
+¡Atención! No es cierto que elegir las hornallas de atras a partir de ahora te agregará 2 cm. Parece obvio pero es importante aclararlo. Tampoco tomen lavandina, por el amor de Bohr.
 
 ![
 Preferencia de hornalla por altura.
@@ -88,9 +95,9 @@ Hornalla trasera Q2: 1.69,
 Hornalla trasera Q3: 1.76,
 ](altura.png)
 
-### Se usa más la de adelante si se prende con encendedor
+### Se usa más la hornalla de adelante si se usa encendedor para prenderla
 
-Sería más cómodo usar el encendedor más "cerca".
+Supusimos que, de usar un encendedor, sería más cómodo prender la hornalla más "cercana" así que decidimos validar esta hipótesis y parece que sí, hay una correlación significativa en este sentido.
 
 ![
 Hornalla favorita según uso de encendedor.
@@ -102,7 +109,9 @@ No usa encendedor, prefiere hornalla trasera: 1009
 
 ### Se usa más la hornalla más fuerte
 
-Las hornallas más fuertes suelen ser preferida a las demás.
+Somos gente intensa. Y los datos lo validan: las hornallas más fuertes suelen ser preferidas a las demás.
+
+Para llegar a esta conclusión primero tuvimos que analizar cuál era la probabilidad aleatoria de elegir esa hornalla. Entonces, por ejemplo, si las 4 hornallas funcionan y solamente una es alta, la probabilidad de elegirla al azar es 1/4 (0,25) pero si hay dos hornallas altas, se convierte en 2/4, es decir 0,5. En el gráfico se muestra la probabilidad esperada (aleatoria) en barras blancas y la ocurrencia según nuestros datos en verde. Vemos que, para todos los casos, la probabilidad de elegir la hornalla con más intensidad es mayor que la esperada por azar.
 
 ![
 Hornallas de intensidad alta favoritas.
@@ -115,7 +124,7 @@ Proporción de hornallas de intensidad alta 1/4: 0.47,
 
 ### La edad no es predictora de la hornalla favorita
 
-A priori la edad parece predecir una preferencia por hornallas traseras.
+Nuestra primera hipótesis era que la edad no tenía nada que ver con el FH. Pero cuando analizamos los datos, el resultado fue sorprendente: a priori la edad parece predecir una preferencia por hornallas traseras.
 
 ![
 Preferencia de hornalla por edad
@@ -127,8 +136,9 @@ Hornalla trasera Q2: 31,
 Hornalla trasera Q3: 39,
 ](edad0.png)
 
-Pero una vez que nos quedamos sólo con gente que no tiene hijes menores, esta
-diferencia desaparece.
+¿Cómo explicar esto? Pensamos que, quizás, la gente de más edad tenía o había tenido (recordemos que somos animales de costumbre) criaturas. 
+Por eso, decidimos controlar por esa variable. 
+Una vez que nos quedamos sólo con gente que no tiene criaturas, vimos que la preferencia desaparecía.
 
 ![
 Preferencia de hornalla por edad (sin hijes)
@@ -140,11 +150,11 @@ Hornalla trasera Q2: 28,
 Hornalla trasera Q3: 35,
 ](edad1.png)
 
-### Los hombres tienen más preferencia de la hornalla de mayor intensidad
+### Los hombres tienen más preferencia por la hornalla de mayor intensidad
 
-No encontramos diferencia sustanciales entre ambos géneros en este aspecto.
+Era una linda hipótesis, pero no encontramos diferencias significativas entre géneros en este aspecto.
 
-### El género no predice la preferencia de la hornalla
+### El género no predice el FH
 
 Los hombres demuestran usar más las hornallas traseras. Sin embargo, al
 controlar por niñes la tendencia desaparece.
