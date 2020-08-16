@@ -14,8 +14,9 @@ sé por qué elegí la que elegí.
 ## Muestra
 
 A lo largo de dos días, una increíble cantidad de 4949 personas respondieron a la encuesta anónima que preparamos. Eso nos indica (1) que nos encanta responder encuestas, (2) que el tema de las hornallas favoritas es de interés poblacional y/o (3) que preferimos dedicar tiempo a estos menesteres en lugar de a otras cuestiones más urgentes. No somos quiénes para juzgar.
-Es importante tener en cuenta que la encuesta fue voluntaria (¿por qué obligaríamos a alguien a decirnos cuál es su hornalla favorita?) y la muestra autoseleccionada así que no es necesariamente representativa de la población en general.
-Para el análisis de datos "limpiamos" previamente la muestra eliminando aquellas respuestas que no tenían sentido. Por ejemplo, personas que habían puesto que su altura era 3.1416. Sin duda amamos a pi, pero definitivamente no puede ser la altura de una persona.
+Es importante tener en cuenta que la encuesta fue voluntaria (¿por qué obligaríamos a alguien a decirnos cuál es su hornalla favorita siendo un tema tan personal?) y la muestra autoseleccionada así que no es necesariamente representativa de la población en general.
+Para el análisis de datos "limpiamos" previamente la muestra eliminando aquellas respuestas que no tenían sentido. Por ejemplo, personas que habían puesto que su altura era 3.1416. Sin duda, quienes somos seres del bien amamos a pi, pero definitivamente no puede ser la altura de una persona.
+Hecha esta limpieza, la muestra final consistió en las respuestas de 4939 personas.
 
 ## ¿Cuál es la hornalla favorita?
 
@@ -23,18 +24,19 @@ Podríamos decir que la hornalla favorita de la población que analizamos es la 
 En este caso (suenen trompetas): adelante y a la derecha seguida muy, muy de cerca por adelante y a la izquierda.
 Datos, no opinión. No nos vengan con pucheritos si no ganó su favorita.
 
-![Hornalla favorita. Adelante derecha: 1791 votos, Adelante izquierda: 1661,
-Atrás derecha: 828, Atrás izquierda: 669](hornallas.png)
+![Hornalla favorita. Adelante derecha: 1790 votos, Adelante izquierda: 1657,
+Atrás derecha: 826, Atrás izquierda: 666](hornallas.png)
 
 Más allá de este resultado, algo más interesante es tratar de entender si existen razones para que esto sea así. 
 Para intentar dilucidarlo, desarrollamos algunas hipótesis, es decir ideas de comportamiento que esperamos, e intentamos validarlas (o no) a partir de los datos que recolectamos. 
 
 ## Hipótesis
 
-### Se usa más la correspondiente a la mano hábil
+### Se usa más la hornalla correspondiente a la mano hábil
 
 ¿Los diestros usan más las hornallas derechas y los zurdos más las izquierdas?
-La respuesta es sí, pero muy poco.
+La respuesta es sí, pero muy poco. La lateralidad no parecería influir en nuestro favoritismo hornallil (de ahora en más, FH).
+
 ![
 Hornalla favorita por mano hábil.
 Diestros que prefieren hornalla izquierda: 2042,
@@ -43,11 +45,10 @@ Zurdos que prefieren hornalla izquierda: 278,
 Zurdos que prefieren hornalla derecha: 261
 ](manohabil.png)
 
-### Se usa más la que tiene del lado de la mesada
+### Se usa más la hornalla que está del lado de la mesada
 
-¿Se usan más las hornallas del lado de la mesada? Para eso nos quedamos sólo
-con quienes tienen mesada a un costado y vemos que es significativa la
-diferencia.
+Para saber si la posición de las hornallas respecto de la mesada es una variable importante a la hora de discernir el FH, nos quedamos sólo
+con los datos de quienes tienen mesada a uno de los costados. En este caso encontramos que sí hay diferencias significativas. ¡Alegría!
 
 ![
 Hornalla favorita por lado de mesada.
@@ -57,12 +58,12 @@ Mesada a la izquierda, hornalla favorita a la izquierda: 980,
 Mesada a la izquierda, hornalla favorita a la derecha: 617
 ](ladomesada.png)
 
-### Se usa más la de atrás si se tienen niñes
+### Se usa más la hornalla de atrás si se tienen criaturas
 
-¿La gente con niñes teme que toquen accidentalmente las hornallas delanteras
-y por eso usan más las de atrás? Sí, pasa bastante, aunque no pasan a ser
-mayoría. También varias personas comentaron que les quedó la costumbre aún
-cuando ya no tiene a pequeñes.
+¿La gente con criaturas teme que toquen accidentalmente las hornallas delanteras
+y por eso usan más las de atrás? Aparentemente sí. Vemos que es algo que pasa bastante. Sin embargo, no llega a ser la mayoría de los casos. Evidentemente la seguridad infantil no parecería ser prioridad a la hora de elegir una hornalla favorita. POLÉMICO.
+Es de destacar que varias personas comentaron que les quedó la costumbre de usar hornallas traseras aún
+cuando sus criaturas ya han dejado el hogar hace rato. Sabemos que anécdota no es evidencia, pero no perdamos de vista que estamos analizando una encuesta sobre hornallas.
 
 ![
 Hornalla favorita según presencia de niñes menores.
