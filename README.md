@@ -240,7 +240,7 @@ la cocina: 1220. Magiclik: 812. Es automático: 456](conqueencendes.png)
 Pero lo que es más extraño, varias de estas personas lo hacen con encendedores
 sin gas o rotos. 
 Y, más extraño aún, esas personas sintieron una fuerte necesidad de compartirlo, nos imaginamos con
-orgullo. Algunos comentarios simpáticos a esta pregunta y otros que nos hacen dudar acerca de cómo la humanidad sigue viva fueron:
+orgullo. Algunos comentarios simpáticos a esta pregunta -y otros que nos hacen dudar acerca de cómo la humanidad sigue viva- fueron:
 
 * Palitos o papel
 * Pedernal o chispero (el que se usa para prender las soldadoras)
@@ -251,4 +251,8 @@ orgullo. Algunos comentarios simpáticos a esta pregunta y otros que nos hacen d
 * Papel prendido fuego con el piloto del calefón
 * Una servilleta prendida por la llama del calefón cuando algún gil me roba el encendedor
 
-¡Ah! También aprendimos algo fundamental: no hay que poner opción "Otros" porque después ponen esas respuestas y ordenar los datos es un lío. Se los dejamos como moraleja de la historia, porque es importante compartir la sabiduría.
+También hubo gente que nos abrió su corazón:
+
+* Botón pero ta roto entonces uso mi hornalla no favorita 🥺
+
+¡Ah! Y aprendimos algo fundamental: no hay que poner opción "Otros" porque después ponen esas respuestas y ordenar los datos es un lío. Se los dejamos como moraleja de la historia. Después de todo, es importante compartir la sabiduría.
