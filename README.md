@@ -187,3 +187,55 @@ condiciones:
 izquierda.
 * La hornalla de mayor intensidad está adelante y hay mesada hacia la izquierda
 pero no hacia la derecha.
+
+### Calidad del modelo
+
+¿Cuánto entendemos ahora de nuestra preferencia de hornallas? Poco más que
+antes. Con estas reglas adivinamos correctamente un 34% de las veces, mientras
+que al azar sólo lo hubiesemos logrado un 25%.
+
+Se puede intentar obtener mejores resultados con estos datos usando modelos más
+complejos, o preparando los datos de otra forma, o quizás sea necesario hacer
+una encuesta más profunda para entender el subconsciente humano, pero tampoco
+podemos descartar la alternativa de que muchas personas tengan un FH caprichoso
+y arbitrario, que no pueda ser explicado por la ciencia.
+
+## Descubrimientos
+
+### Hornallas mixtas o combinadas
+
+Tres personas cada mil que respondieron la encuesta indicaron que tenían
+hornallas mixtas, es decir algunas a gas y otras eléctricas. Algunas de ellas
+también avisaron que su horno era eléctrico, lo cual escapa al objeto de
+estudio de esta encuesta, pero es bueno saberlo.
+
+### Vitroceramico
+
+Las [cocinas vitrocerámicas](https://es.wikipedia.org/wiki/Cocina_vitrocer%C3%A1mica)
+fueron consideradas hornallas eléctricas.
+
+### Encendido
+
+¡Mucha gente prende las hornallas con encendedores!
+
+![¿Con qué encendés las hornallas?. Encendedor: 1879. Fósforos: 1730. Botón de
+la cocina: 1220. Magiclik: 812. Es automático: 456](conqueencendes.png)
+
+Pero lo que es más extraño, varias de estas personas lo hacen con encendedores
+sin gas o rotos, y sintieron la necesidad de compartirlo, nos imaginamos con
+orgullo.
+
+Algunas respuestas simpáticas a esta pregunta:
+
+* Encendedor;Palitos o papel
+* Pedernal o chispero (el que se usa para prender las soldadoras)
+* Con las velitas largas del súper, que enciendo en el piloto del calefón
+* Fósforos;Vela
+* Fósforos;Es automático; Se me rompió el magiclick cuando compré el repuesto de gas, antes de la cuarentena
+* Lo que encuentre primero
+* Encendedor;Fósforos;Una vez corri desde el living con un papelito encendido
+* Encendedor;Papel prendido fuego con el piloto del calefón
+* Encendedor;Una servilleta prendida por la llama del calefón cuando algún gil me roba el encendedor
+* Botón de la cocina;Precisamente respondí funciona mal en las 2 q no anda el botón magiclick o como se llame.
+* Es automático;No tengo 2 hornallas delante y 2 detrás, están en las esquinas de un rombo. Una delante, dos al centro, una detrás 
+* magicklick mágico que lleva un encendedor bic
