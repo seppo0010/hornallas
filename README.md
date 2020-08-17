@@ -1,4 +1,4 @@
-# Preferencias de Hornallas
+# Análisis de preferencias de hornallas
 
 Por Valeria Edelsztein y Sebastian Waisbrot
 
