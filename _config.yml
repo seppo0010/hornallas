@@ -6,4 +6,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /hornallas/hobs.png
+      image: /hobs.png
