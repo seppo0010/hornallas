@@ -205,7 +205,7 @@ una encuesta más profunda para entender el subconsciente humano. Pero tampoco
 podemos descartar la alternativa de que muchas personas tengan un FH caprichoso
 y arbitrario, que no pueda ser explicado por la ciencia.
 
-## FIN - APLAUSOS - CAEN LOS CRÉDITOS - 
+## FIN - APLAUSOS - CAEN LOS CRÉDITOS  
 
 Si llegaron hasta acá es porque realmente tenían interés en el tema. Como valoramos profundamente ese compromiso, y a la manera de recompensa pixareana, he aquí el bonus track post-créditos.
 
@@ -225,7 +225,7 @@ Aparentemente hay hornallas ubicadas en forma de cruz ("No tengo 2 hornallas del
 ¿Qué decir? La búsqueda estilística tiene sus desventajas. Por ejemplo, no poder responder adecuadamente este dispositivo metodológico de indagación. 
 Es el precio a pagar.
 
-### Vitroceramico
+### Vitrocerámico
 
 Aprendimos que las [cocinas vitrocerámicas](https://es.wikipedia.org/wiki/Cocina_vitrocer%C3%A1mica)
 se consideran hornallas eléctricas.
