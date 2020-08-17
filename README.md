@@ -21,6 +21,11 @@ Para el análisis de datos "limpiamos" previamente la muestra eliminando aquella
 
 Hecha esta limpieza, la muestra final consistió en las respuestas de 4939 personas.
 
+## Análisis estadístico (AHRE)
+
+Debido al amplio compromiso de la población con la resolución de la encuesta, decidimos realizar un análisis estadístico de los resultados a conciencia.
+Para eso, en muchos casos aplicamos el coeficiente de correlación de Pearson para analizar la dependencia entre dos variables, también usamos p-valores para decidir si había diferencias significativas entre distintas poblaciones, en un caso aplicamos una distribución binomial e, incluso, hicimos un test con nombre de Vodka:Kolmogorov–Smirnov.
+
 ## ¿Cuál es la hornalla favorita?
 
 Podríamos decir que la hornalla favorita de la población que analizamos es la que más gente prefiere.
@@ -190,29 +195,40 @@ pero no hacia la derecha.
 
 ### Calidad del modelo
 
-¿Cuánto entendemos ahora de nuestra preferencia de hornallas? Poco más que
-antes. Con estas reglas adivinamos correctamente un 34% de las veces, mientras
+¿Cuánto entendemos ahora acerca de nuestra preferencia de hornallas? Un poco más que
+antes. Con las reglas que propuso el modelo, pudimos asignar correctamente el FH un 34% de las veces, mientras
 que al azar sólo lo hubiesemos logrado un 25%.
 
-Se puede intentar obtener mejores resultados con estos datos usando modelos más
+Se podrían intentar obtener mejores resultados con estos datos usando modelos más
 complejos, o preparando los datos de otra forma, o quizás sea necesario hacer
-una encuesta más profunda para entender el subconsciente humano, pero tampoco
+una encuesta más profunda para entender el subconsciente humano. Pero tampoco
 podemos descartar la alternativa de que muchas personas tengan un FH caprichoso
 y arbitrario, que no pueda ser explicado por la ciencia.
+
+## FIN - APLAUSOS - CAEN LOS CRÉDITOS - 
+
+Si llegaron hasta acá es porque realmente tenían interés en el tema. Como valoramos profundamente ese compromiso, y a la manera de recompensa pixareana, he aquí el bonus track post-créditos.
 
 ## Descubrimientos
 
 ### Hornallas mixtas o combinadas
 
-Tres personas cada mil que respondieron la encuesta indicaron que tenían
+Tres personas cada mil respondieron que tenían
 hornallas mixtas, es decir algunas a gas y otras eléctricas. Algunas de ellas
-también avisaron que su horno era eléctrico, lo cual escapa al objeto de
+también nos avisaron que su horno era eléctrico, lo cual escapa al objeto de
 estudio de esta encuesta, pero es bueno saberlo.
+
+### Hornallas que no respetan el clásico cuadrado
+
+Ciertas personas señalaron que su disposición hornallística no se acomodaba a las especificaciones de la encuesta. 
+Aparentemente hay hornallas ubicadas en forma de cruz ("No tengo 2 hornallas delante y 2 detrás, están en las esquinas de un rombo. Una delante, dos al centro, una detrás") e, incluso, hornallas quíntuples donde una de ellas está en el centro. 
+¿Qué decir? La búsqueda estilística tiene sus desventajas. Por ejemplo, no poder responder adecuadamente este dispositivo metodológico de indagación. 
+Es el precio a pagar.
 
 ### Vitroceramico
 
-Las [cocinas vitrocerámicas](https://es.wikipedia.org/wiki/Cocina_vitrocer%C3%A1mica)
-fueron consideradas hornallas eléctricas.
+Aprendimos que las [cocinas vitrocerámicas](https://es.wikipedia.org/wiki/Cocina_vitrocer%C3%A1mica)
+se consideran hornallas eléctricas.
 
 ### Encendido
 
@@ -222,20 +238,17 @@ fueron consideradas hornallas eléctricas.
 la cocina: 1220. Magiclik: 812. Es automático: 456](conqueencendes.png)
 
 Pero lo que es más extraño, varias de estas personas lo hacen con encendedores
-sin gas o rotos, y sintieron la necesidad de compartirlo, nos imaginamos con
-orgullo.
+sin gas o rotos. 
+Y, más extraño aún, esas personas sintieron una fuerte necesidad de compartirlo, nos imaginamos con
+orgullo. Algunos comentarios simpáticos a esta pregunta y otros que nos hacen dudar acerca de cómo la humanidad sigue viva fueron:
 
-Algunas respuestas simpáticas a esta pregunta:
-
-* Encendedor;Palitos o papel
+* Palitos o papel
 * Pedernal o chispero (el que se usa para prender las soldadoras)
 * Con las velitas largas del súper, que enciendo en el piloto del calefón
-* Fósforos;Vela
-* Fósforos;Es automático; Se me rompió el magiclick cuando compré el repuesto de gas, antes de la cuarentena
+* Se me rompió el magiclick cuando compré el repuesto de gas, antes de la cuarentena
 * Lo que encuentre primero
-* Encendedor;Fósforos;Una vez corri desde el living con un papelito encendido
-* Encendedor;Papel prendido fuego con el piloto del calefón
-* Encendedor;Una servilleta prendida por la llama del calefón cuando algún gil me roba el encendedor
-* Botón de la cocina;Precisamente respondí funciona mal en las 2 q no anda el botón magiclick o como se llame.
-* Es automático;No tengo 2 hornallas delante y 2 detrás, están en las esquinas de un rombo. Una delante, dos al centro, una detrás 
-* magicklick mágico que lleva un encendedor bic
+* Una vez corri desde el living con un papelito encendido
+* Papel prendido fuego con el piloto del calefón
+* Una servilleta prendida por la llama del calefón cuando algún gil me roba el encendedor
+
+¡Ah! También aprendimos algo fundamental: no hay que poner opción "Otros" porque después ponen esas respuestas y ordenar los datos es un lío. Se los dejamos como moraleja de la historia, porque es importante compartir la sabiduría.
