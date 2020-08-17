@@ -1,4 +1,9 @@
 twitter:
   username: seppo0011
   card: summary
-image: https://seppo0010.github.io/hornallas/hobs.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /hornallas/hobs.png
